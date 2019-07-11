@@ -1,0 +1,134 @@
+****** GUIAS LINEALES *******
+2 X 450 MGN12C
+2 X 300 MGN12C
+1 X 400 MGN12C
+1 X PATIN MGN12C
+
+****** PERFILES 30x30 *******
+2x Perfil 30x30 --- 285
+2x Perfil 30x30 --- 165
+
+****** ESTRUCTURA *******
+12-Estructura 3x12
+32-Perfiles 5x12
+
+****** EJE Y ********
+4- Sujeccion piezas soporte guias Y 3x10
+2- Sop motor Y a Estructura 3x12
+2- Motor Y a Soporte 3x10
+2- Y idler a estructura 3x10
+2- Y holder a bandeja 3x12 (Sopo correa Y)
+1- Polea 3mm a pieza 3x25
+5-Cama a base Y --- 3x20 Avellanados
+12- Sujeccion patines a bandeja 3x8
+
+1-Soporte cadeneta a base 3x12
+
+12- Sujeccion X a las guias 3x16
+14- Sujeccion Y a las guias 3x10
+
+2- Final de carrera 3x10
+
+
+****** EJE X ******
+1- Polea X 5x30
+4- Motor X 3x10 + Arandelas
+4- X Carriage a Guia 3X8
+8- Xmotor - Xidler a Guia Z 3x8
+4- Xidler + Xmotor a Guia X --2- 3x18 1--3x14(X-Idl)  1--3x16(X-Mot) 
+
+
+******* EJE Z ******
+
+6-Sop motor Z a estructura 3X12
+12-Sujeccion Guia Z a estructura 3x10
+6-Tuerca husillos X 3x12 + Tuerca autoblocante
+8- Motores Z  3x8
+
+***** CORREAS ******
+Correa X 960mm
+Correa Y 910mm
+
+
+**** CABLEADO *****
+600mm Cable de fuente a placa alimentacion
+900mm Cable cama a electronica
+
+
+****** ELECTRONICA *****
+
+4- Soporte Fuente a Marco + Soporte tapa fuente 4X6
+2- Conector C14 3x8 Avellanado
+4- Soporte placa a Marco 3X10 avellanados (electronia + raspy)
+8- Raspy y skr a soporte electronica 3x6
+2- Soporte endstop Y 3x10
+1- Soporte bobina filamento 3x12
+2-Sensor de filamento a soporte 3x18
+2-Ventilador electronica a tapa 3x18 avellanado
+LCD RBG 2- 3x6 2- 3x16
+1- Tapa electronica 3x50 
+
+******* INSERTOS *******
+20 Insertos M3
+1 Inserto M6
+
+********* TITAN ***********
+1- Anclaje titan no aero a motor 3x10
+3- Anclaje aero a motor 3X35 + 4 Arandelas + 1 3x30 corto (Todos con arandela)
+2- Ventilador aero 3x16 Avellanados para filtro
+2- Ventilador Blower a soporte vent capa 3x20
+2- Soporte cadeneta a Vent capa 3x8
+Sensor inductivo 24mm desde salida del cable a X carriage
+
+------------------------------------------
+
+Tubo PTFE Titan 41.60mm (Barrel 4.1)
+Tubo PTFE Titan 23.50mm (Barrel TC4)
+********* BMG ***********
+4- anclaje soporte a guia 3x8
+3- anclaje bmg a soporte 3x36.2 (Especiales)
+2- soporte fan layer a carro central 3x12 + arandelas
+2- soporte cadeneta a x carro 3x6
+2- ventilador blower a soporte 3x20 + tuerca nylon
+
+
+******* CADENETAS *******
+
+20x Eslabon 5  (Eje Y)
+
+15x Eslabon 15 (Eje Z)(13 Tapas R + 2 Tapa fina)
+23x P3steel XL Eslabon 15 (Eje Z)
+
+
+---- TITAN ----
+18x Eslabon 15 (Eje X)(16 Tapas L + 2 Tapa fina)
+
+--- BMG ----
+19x Eslabon 15 (Eje X)(16 Tapas L + 2 Tapa fina) + Eslabon bloqueado
+23X P3Steel XL (Eje X) + Eslabon bloqueado
+
+
+4- Xmotor soporte cadeneta 3X6
+2- X Carriage a soporte cadeneta 3X8
+
+
+******** DRIVER ********
+
+TMC 2208
+X - 750mv
+Y - 800mv (0.9º - 1300mv)
+Z - 800mv
+E - 750mv
+
+******* SENSOR INDUCTIVO *****
+5V - MARRON
+GND - AZUL
+1.25 - NEGRO
+
+****** SENSOR FILAMENTO ****
+Pin 1.28 (X+)
+Pin GND
+
+
+
+

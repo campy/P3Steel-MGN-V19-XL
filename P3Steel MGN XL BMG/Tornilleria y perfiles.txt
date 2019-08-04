@@ -6,7 +6,7 @@
 
 ****** PERFILES 30x30 *******
 2x Perfil 30x30 --- 285
-2x Perfil 30x30 --- 165
+2x Perfil 30x30 --- 166
 
 ****** ESTRUCTURA *******
 12-Estructura 3x12
@@ -17,21 +17,21 @@
 2- Sop motor Y a Estructura 3x12
 2- Motor Y a Soporte 3x10
 2- Y idler a estructura 3x10
-2- Y holder a bandeja 3x12 (Sopo correa Y)
-1- Polea 3mm a pieza 3x25
-5-Cama a base Y --- 3x20 Avellanados
+2- Y holder a bandeja 3x12 (Sopo correa Y) (Tuerca Autoblocante)
+1- Polea 3mm a pieza 3x25 + (Tuerca autoblocante)
+5-Cama a base Y --- 3x20 Avellanados (Tuerca autoblocante)
 12- Sujeccion patines a bandeja 3x8
 
 1-Soporte cadeneta a base 3x12
 
-12- Sujeccion X a las guias 3x16
-14- Sujeccion Y a las guias 3x10
+***12- Sujeccion X a las guias 3x16***
+14- Sujeccion Y a las guias 3x10 (Tuercas t Nut perfil)
 
 2- Final de carrera 3x10
 
 
 ****** EJE X ******
-1- Polea X 5x30
+1- Polea X 5x30 (Tuerca autoblocante)
 4- Motor X 3x10 + Arandelas
 4- X Carriage a Guia 3X8
 8- Xmotor - Xidler a Guia Z 3x8
@@ -41,7 +41,7 @@
 ******* EJE Z ******
 
 6-Sop motor Z a estructura 3X12
-12-Sujeccion Guia Z a estructura 3x10
+20-Sujeccion Guia Z a estructura 3x12 + Tuerca autoblocante
 6-Tuerca husillos X 3x12 + Tuerca autoblocante
 8- Motores Z  3x8
 
@@ -128,6 +128,9 @@ GND - AZUL
 ****** SENSOR FILAMENTO ****
 Pin 1.28 (X+)
 Pin GND
+
+Tornilleria Total:
+
 
 
 

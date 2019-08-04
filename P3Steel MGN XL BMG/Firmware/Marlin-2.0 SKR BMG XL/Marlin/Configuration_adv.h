@@ -1561,7 +1561,7 @@
   #endif
 
   #if AXIS_IS_TMC(Y)
-    #define Y_CURRENT     920
+    #define Y_CURRENT     900
     #define Y_MICROSTEPS   16
     #define Y_RSENSE     0.11
   #endif

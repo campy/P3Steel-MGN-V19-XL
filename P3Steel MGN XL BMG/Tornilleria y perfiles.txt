@@ -18,7 +18,7 @@
 2- Motor Y a Soporte 3x10
 2- Y idler a estructura 3x10
 2- Y holder a bandeja 3x12 (Sopo correa Y) (Tuerca Autoblocante)
-1- Polea 3mm a pieza 3x25 + (Tuerca autoblocante)
+1- Polea 5mm a soporte polea Y Tornillo de tope 4X15 + (Tuerca autoblocante M4)
 5-Cama a base Y --- 3x20 Avellanados (Tuerca autoblocante)
 12- Sujeccion patines a bandeja 3x8
 
@@ -31,7 +31,7 @@
 
 
 ****** EJE X ******
-1- Polea X 5x30 (Tuerca autoblocante)
+1- Polea X 5x30 Tornillos tope 4X20 (Tuerca autoblocante M4)
 4- Motor X 3x10 + Arandelas
 4- X Carriage a Guia 3X8
 8- Xmotor - Xidler a Guia Z 3x8

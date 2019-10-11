@@ -6,3 +6,11 @@ M303 E0 S220 C8
 
 Iniciar PID Cama
 M303 E-1 S70 C4
+
+Modificar valores gcode hotend
+M301 P19.56 I0.71 D134.26 
+
+Modificar valores gcode cama
+M304 P116.50 I12.02 D752.54 
+
+M500 Guardar eprom
